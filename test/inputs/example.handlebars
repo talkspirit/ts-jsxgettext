@@ -1,0 +1,7 @@
+Some {{ gettext "translated text"}} is matched.
+But non-translated text is not matched.
+Even with a {{ value }} embedded.
+Variable is not extracted {{ gettext value}}
+Plural is extracted {{ gettext "translated with plural"  "translated with plurals" count=1}}
+Context is extracted {{ gettext "translated with context"  context="Context"}}
+Context and plural is extracted {{ gettext "translated with context and plural" "translated with context and plurals"  context="Context"}}
