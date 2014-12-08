@@ -28,6 +28,6 @@
     "i18n-abide": "0.0.17"
   },
   "scripts": {
-    "test": "node ./node_modules/jshint/bin/jshint . && node test"
+    "test": "node test"
   }
 }
