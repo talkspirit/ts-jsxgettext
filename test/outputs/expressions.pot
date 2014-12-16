@@ -13,7 +13,8 @@ msgstr ""
 #: inputs/expressions.js:7
 msgid "String with plural"
 msgid_plural "Strings with plurals"
-msgstr ""
+msgstr[0] ""
+msgstr[1] ""
 
 #: inputs/expressions.js:8
 msgctxt "Context"
@@ -24,4 +25,5 @@ msgstr ""
 msgctxt "Context"
 msgid "String with context and plural"
 msgid_plural "Strings with context and plurals"
-msgstr ""
+msgstr[0] ""
+msgstr[1] ""
