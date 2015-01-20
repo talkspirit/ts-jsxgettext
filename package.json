@@ -1,7 +1,7 @@
 {
   "author": "Jean CARRIERE <jean.carriere@talkspirit.com>",
   "name": "ts-jsxgettext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extracts gettext strings from JavaScript, Embeded JS (_ templates) and Handlebars files.",
   "keywords": [
     "i18n",
