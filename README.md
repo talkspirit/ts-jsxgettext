@@ -1,4 +1,4 @@
-# tk-jsxgettext
+# ts-jsxgettext
 Created from the node module jsxgettext (https://github.com/zaach/jsxgettext)
 
 A node module with a CLI that extracts gettext strings from JavaScript, EJS, and Handlebars files. Uses a real parser, [acorn](https://github.com/marijnh/acorn), for JavaScript files and recognizes the following uses:
