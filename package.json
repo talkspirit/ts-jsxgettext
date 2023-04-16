@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "i18n-abide": "0.0.17",
-    "jshint": "2.5.5",
+    "jshint": "2.13.6",
     "test": "*"
   },
   "scripts": {
